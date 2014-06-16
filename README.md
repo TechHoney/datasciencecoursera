@@ -1,4 +1,4 @@
-coursera-datascience
+datasciencecoursera
 ====================
 
 content for coursera class
